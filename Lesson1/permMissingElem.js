@@ -14,3 +14,11 @@ function solution(A) {
     }
     return sum;
 }
+
+function solution(A) {
+    var len = A.length, sum = (len + 1) * (len + 2) / 2, i;
+    for (i = 0; i < len; i++) {
+        sum -= A[i];
+    }
+    return sum;
+}
