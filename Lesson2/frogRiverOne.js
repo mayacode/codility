@@ -1,7 +1,7 @@
 /**
  * Created by Maja Miarecki
  * FrogRiverOne
- * lesson link: https://codility.com/programmers/lessons/1
+ * lesson link: https://codility.com/programmers/lessons/2
  *
  */
 
