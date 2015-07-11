@@ -1,7 +1,7 @@
 /**
  * Created by Maja Miarecki
  * PassingCars
- * lesson link: https://codility.com/programmers/lessons/2
+ * lesson link: https://codility.com/programmers/lessons/3
  *
  */
 
